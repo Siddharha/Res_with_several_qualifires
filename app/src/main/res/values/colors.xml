@@ -6,4 +6,5 @@
     <color name="textPrimary">#650EFF</color>
     <color name="buttonPrimary">#000000</color>
     <color name="buttonText">#FFFFFF</color>
+    <color name="img_back">#404040</color>
 </resources>
